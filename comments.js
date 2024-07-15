@@ -21,7 +21,7 @@ app.listen(port, () => {
   console.log(`Example app listening at http://localhost:${port}`);
 });
 
-// Run the server, and open your browser to http://localhost:3000/. You should see the text Hello World! on the page.
+// Run the server, and open your browser to http://localhost:3000/. You should see the text Hello World! on the page. YES
 
 // Now, open another terminal and use curl to send a POST request to the /comments endpoint:
 
